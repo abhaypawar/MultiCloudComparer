@@ -38,9 +38,10 @@ python MultiCloudComparer.py --instance-type <INSTANCE_TYPE> --region <REGION> -
 
 For Example: 
 python MultiCloudComparer.py --instance-type t2.micro --region us-east-1 --usage-hours 100
+```
 
 ## Sample Output
-
+```
 Example Output - text
 
 Instance Type: t2.micro
@@ -49,24 +50,27 @@ Usage Hours: 100
 AWS Cost: $12.00
 GCP Cost: $11.50
 Azure Cost: $13.00
+```
 
 ## Development
 
 To contribute to the project, follow these steps:
-
+```
     Fork the repository.
     Create a new branch (git checkout -b feature-branch).
     Make your changes and commit them (git commit -am 'Add new feature').
     Push to the branch (git push origin feature-branch).
     Create a new Pull Request.
+```
 
 ## Contributing
 
 Contributions are welcome! Please read the CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgements
+This project is licensed under the Apache 2.0 License - see the LICENSE file for details.
+
+## Acknowledgements
 
     Click for creating the CLI
     Requests for handling HTTP requests
