@@ -1,7 +1,7 @@
 # MultiCloudComparer
 MultiCloudComparer is a powerful CLI based tool designed to provide real-time cost comparisons for cloud instances across AWS, GCP, and Azure. Effortlessly input instance type, region, and usage hours to instantly retrieve and compare pricing, helping you make informed decisions and optimize your cloud spending.
 
-# Cloud Cost Comparator CLI Tool: MultiCloudComparer
+# Cloud Cost Comparator CLI Tool: MultiCloudComparer 
 
 ## Overview
 The Cloud Cost Comparator CLI Tool - MultiCloudComparer is a Python-based command-line interface (CLI) that allows users to compare the costs of using different cloud instances across AWS, GCP, and Azure. The tool fetches cost information from the respective cloud provider pricing APIs and provides a cost comparison based on user inputs such as instance type, region, and usage hours.
